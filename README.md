@@ -1,4 +1,4 @@
-# 🎓 Certificate program in machine learning and data science.
+# 🎓 Certificate Program in Machine Learning and Data Science
 
 The diploma program focused on developing both theoretical knowledge and practical skills in data science and machine learning; emphasizing practical problem solving through the use of statistical methods, supervised and unsupervised machine learning, in addition to big data technologies.
 
